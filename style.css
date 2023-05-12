@@ -26,11 +26,12 @@ body {
 
 canvas {
   margin: 0.5rem;
-  overflow: hidden;
 }
 
 p {
-  width: 100vw
+  text-align: center;
+  max-width: 500px; 
+  margin: 0 auto;
 }
 
 
